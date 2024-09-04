@@ -3278,6 +3278,7 @@ var cnames_active = {
   "uav": "unearth-inc.github.io/uav",
   "ubereats": "korobaka.github.io/ubereats.js",
   "ubuntu-hideout": "bytecommander.github.io/ubuntu-hideout",
+  "ucaine": "mitybp.github.io/ucaine.org",
   "udnisap": "udnisap.github.io",
   "ui": "caracal7.github.io/ui.js",
   "ui-pack": "ui-pack.netlify.app",
